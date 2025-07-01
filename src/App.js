@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="container">
       <div className="header">
-        <h1>Transifex Native playground</h1>
+        <h1><T _str="Transifex Native playground"/></h1>
         <div className="picker">
           <LanguagePicker />
         </div>
